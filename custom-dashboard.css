@@ -1,0 +1,15 @@
+body {
+  background-color: #1e1e2f !important;
+  color: #ffffff !important;
+  font-family: 'Arial', sans-serif !important;
+}
+
+.sidebar {
+  background-color: #282c34 !important;
+  width: 250px !important;
+}
+
+.dashboard-card {
+  border-radius: 12px !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important;
+}
